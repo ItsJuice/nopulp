@@ -1,8 +1,19 @@
-##nopulp
+## nopulp
 
-###Juice Dev knowledge repo
+### Juice Dev knowledge repo
 
 # "Don't let the Perfect be the enemy of the Good." E.P.
+
+
+## 3rd Party services
+ 
+  - Analytics - [New Relic](https://rpm.newrelic.com/accounts/239652/applications/1356178) 
+  - DB Hosting - [MongoHQ](http://mongohq.com)
+  - Planning - [Pivotal Tracker](https://www.pivotaltracker.com/projects/687661#)
+  - App Hosting - [Heroku](http://heroku.com)
+  - Code Repository - [Github](http://github.com)
+  - Dev blog - [Tumblr](http://itsjuicedev.tumblr.com)
+
 
 ##Link dump
 
@@ -41,5 +52,5 @@
 
 ## Rails
  - [Will Paginate](https://github.com/mislav/will_paginate/wiki)
- - [Mongoid Devise Cucumber](http://railsapps.github.com/tutorial-rails-mongoid-devise.html]
- - [Locomotive][http://locomotivecms.com/]
+ - [Mongoid Devise Cucumber](http://railsapps.github.com/tutorial-rails-mongoid-devise.html)
+ - [Locomotive](http://locomotivecms.com/)
